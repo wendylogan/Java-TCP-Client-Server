@@ -1,0 +1,46 @@
+# Compiled Java files
+*.class
+*.jar
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output
+build/
+bin/
+out/
+target/
+
+# Temp files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Maven / Gradle (if used)
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+mvnw
+mvnw.cmd
+gradle/
+gradlew
+gradlew.bat
