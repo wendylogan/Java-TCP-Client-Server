@@ -19,17 +19,17 @@ A simple client-server application demonstrating socket programming in Java. The
 ## 🚀 How to Run
 
 
-# Compile
+### Compile
 ```bash
 javac Server.java Client.java
 ```
 
-# Start Server (in one terminal)
+### Start Server (in one terminal)
 ```bash
 java Server
 ```
 
-# Start Client (in another terminal)
+### Start Client (in another terminal)
 ```bash
 java Client
 ```
