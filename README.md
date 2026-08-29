@@ -1,4 +1,4 @@
-# Server/Client (Java)
+# Client/Server (Java)
 
 A simple client-server application demonstrating socket programming in Java. The server echoes client messages in uppercase, showcasing TCP communication, resource management, and clean error handling.
 
